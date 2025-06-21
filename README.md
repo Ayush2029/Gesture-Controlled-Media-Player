@@ -21,7 +21,7 @@ Prerequisites: <br>
 Step-by-Step Installation <br>
 1] Clone the Repository: <br>
 - Open your terminal or command prompt and clone the project repository to your local machine. <br>
-  git clone https://github.com/your-username/hand-gesture-media-controller.git <br>
+  git clone: https://github.com/Ayush2029/Gesture-Controlled-Media-Player.git <br>
 - Navigate into the cloned project directory: <br>
 <br>
 2] Install Dependencies: <br>
