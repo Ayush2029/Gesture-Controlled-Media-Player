@@ -13,6 +13,21 @@ This project enables you to control media playback on your computer using hand g
 (3) ✨ Real-time Visual Feedback: Displays your webcam feed with overlaid hand landmarks. <br>
 (4) ⚙️ Gesture Debouncing: Prevents accidental multiple actions from quick, unintentional gestures. <br>
 
+<h3>🛠️ Installation </h3>
+Follow these steps to get the project up and running on your local machine. <br>
+Prerequisites: <br>
+- Python 3.x: Make sure you have Python installed. You can download it from python.org. <br>
+<br>
+Step-by-Step Installation <br>
+1] Clone the Repository: <br>
+- Open your terminal or command prompt and clone the project repository to your local machine. <br>
+  git clone https://github.com/your-username/hand-gesture-media-controller.git <br>
+- Navigate into the cloned project directory: <br>
+<br>
+2] Install Dependencies: <br>
+Once you're in the project directory, install all the required libraries using the requirements.txt file: <br>
+pip install -r requirements.txt <br>
+
 <h3>🏃 How to Run </h3>
 - Once you have installed the dependencies, you can run the main script: <br>
 python Gesture controlled Media Player.py <br>
